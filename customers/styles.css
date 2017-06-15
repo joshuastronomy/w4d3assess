@@ -11,7 +11,7 @@
   flex-flow: column;
   align-items: center;
   padding: 0 20px;
-  flex-basis: 25%;
+  flex-basis: 20%;
   font-family: quicksand;
   margin: 0;
   margin-bottom: 10px;
@@ -28,5 +28,5 @@ text-align: center;
 }
 
 img  {
-  width: 25vw;
+  width: 20vw;
 }
