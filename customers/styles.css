@@ -1,0 +1,32 @@
+.customers  {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  font-size: .75em;
+}
+
+.customers div  {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column;
+  align-items: center;
+  padding: 0 20px;
+  flex-basis: 25%;
+  font-family: quicksand;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.name {
+  border-bottom: 1px solid green;
+  font-size: 2em;
+}
+
+p   {
+  margin: 5px;
+text-align: center;
+}
+
+img  {
+  width: 25vw;
+}
